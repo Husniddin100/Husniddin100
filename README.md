@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Husniddin
+- 👀 I’m interested in ...
+- 📫 How to reach me yallayevhusniddin2003@gmail.com
+- ⚡ Fun fact: i am a java developer
