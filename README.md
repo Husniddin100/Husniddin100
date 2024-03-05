@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Husniddin
-- 👀 I’m interested in ...
+- 👀 I’m interested in computer games
 - 📫 How to reach me yallayevhusniddin2003@gmail.com
 - ⚡ Fun fact: i am a java developer
