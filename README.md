@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husniddin100" alt="husniddin100" /></a> </p>
 
-- 🔭 I’m currently working on [YouTube](https://github.com/Husniddin100/YouTube)
+- 🔭 I’m currently working on [Jiddiy.uz]
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Husniddin100](https://github.com/Husniddin100)
   
